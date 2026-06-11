@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on personal projects;
-- 🌱 I’m currently learning Games Development;
+- 🌱 I’m currently learning Game Development;
 - 📫 How to reach me: marcela.koepsel@gmail.com;
 
 <!--
